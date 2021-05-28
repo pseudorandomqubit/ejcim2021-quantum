@@ -6,8 +6,7 @@ La doc de la librairie se trouve ici https://myqlm.github.io/
 
 ## Si vous préférez ne pas polluer votre système et travailler directement dans une VM:
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/pseudorandomqubit/ejcim2021-quantum/main?filepath=notebooks%2Foverview.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pseudorandomqubit/ejcim2021-quantum/main?filepath=notebooks%2Foverview.ipynb)
 
 ## Si vous préférez travail en local sur votre machine ( moins de latence et probablement meilleures performances )
 
